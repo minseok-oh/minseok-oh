@@ -6,9 +6,9 @@ class minseok_oh{
   std::vector<std::string> study_list;
   
   minseok_oh(){
-    age = 24;
-    job = "student_in_CBNU" + "SW_Maestro_14th";
-    study_list = { "Algorithms", };
+    age = 25;
+    job = "student_in_CBNU";
+    study_list = { "Algorithms", "Java", "Spring", "Docker", "AWS" };
   }
 }
 ```
