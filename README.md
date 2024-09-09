@@ -4,11 +4,13 @@ class minseok_oh{
   int age;
   std::string job;
   std::vector<std::string> study_list;
+  std::vector<std::string> career_list;
   
   minseok_oh(){
     age = 25;
     job = "student_in_CBNU";
     study_list = { "Algorithms", "Java", "Spring", "Docker", "AWS" };
+    career_list = { "SW Maestro 14th", "Woowa Tech Camp 7th" };
   }
 }
 ```
