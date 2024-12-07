@@ -1,16 +1,16 @@
 ### 😃 Minseok-Oh 😃
-```cpp
-class minseok_oh{
-  int age;
-  std::string job;
-  std::vector<std::string> study_list;
-  std::vector<std::string> career_list;
+```java
+class MinseokOh {
+  private int age;
+  private String job;
+  private List<String> study_list;
+  private List<String> career_list;
   
-  minseok_oh(){
+  public MinseokOh() {
     age = 25;
     job = "student_in_CBNU";
-    study_list = { "Algorithms", "Java", "Spring", "Docker", "AWS" };
-    career_list = { "SW Maestro 14th", "Woowa Tech Camp 7th" };
+    study_list = Arrays.asList("Algorithms", "Java", "Spring", "Docker", "AWS");
+    career_list = Arrays.asList("SW Maestro 14th", "Woowa Tech Camp 7th");
   }
 }
 ```
@@ -18,7 +18,7 @@ class minseok_oh{
 </br>
 
 ### 📕 Stack 📘
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 </br>
 <img src="https://img.shields.io/badge/-Linux-grey?logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </br>
