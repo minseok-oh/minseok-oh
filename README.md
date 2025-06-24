@@ -7,10 +7,10 @@ class MinseokOh {
   private List<String> career_list;
   
   public MinseokOh() {
-    age = 25;
-    job = "student_in_CBNU";
-    study_list = Arrays.asList("Algorithms", "Java", "Spring", "Docker", "AWS");
-    career_list = Arrays.asList("SW Maestro 14th", "Woowa Tech Camp 7th");
+    age = 26;
+    job = "Naver Developer";
+    stack_list = Arrays.asList("Java", "Spring Boot", "Python", "Docker", "AWS");
+    career_list = Arrays.asList("SW Maestro 14th", "Woowa Tech Camp 7th", "Naver");
   }
 }
 ```
